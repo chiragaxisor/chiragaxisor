@@ -1,3 +1,8 @@
+👋 Hey, I'm Chirag Limbachiya
+🚀 Full-Stack Developer | AI Enthusiast | Server Admin
+💡 Building scalable apps with Laravel, Node.js, Next.js, NestJS, AI APIs, and DevOps
+🌍 Based in India | Open for collaborations, projects & ideas
+
 # 💫 About Me:
 🖥️ Passionate about Web Development, AI Integrations, and Cloud Infrastructure<br>⚡ Skilled in Laravel, Node.js, Vue.js, Next.js, MySQL, PostgreSQL, AWS, Docker<br>🧠 Exploring AI tools, OpenAI, Gemini API, Serverless, and HealthTech apps<br>💡 Creator of multiple Laravel packages & SaaS tools<br>🎯 Goal: Deliver high-performance applications & meaningful tech solutions<br>
 
